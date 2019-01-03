@@ -58,7 +58,7 @@ CRUISE
 
 
 
-![]("images/20190103_153524.jpg")
+![](images/20190103_153524.jpg)
 
 Prochainement
 
